@@ -1,0 +1,158 @@
+header {
+    background-color: #FFD900;
+    width: 99%;
+    height: 95px;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+}
+
+
+
+
+
+#imgccxp {
+    
+    width: 202px;
+    padding: 28px;
+    
+}
+
+#data{
+    font-family: Verdana;
+    font-size: 25px;
+
+}
+
+#text {
+    position: absolute;
+    background-color: #514988;
+    text-align: center;
+    width: 50%;
+    height: 58%;
+}
+
+.reviva {
+    color: #FFD900;
+    font-family: Verdana;
+    font-size: 45px;
+    font-style: normal;
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+ 
+p {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    color: white;
+    font-family: 'Verdana';
+    padding: 10px;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 200;
+    margin-top:;
+}
+
+.countdown{
+    position: absolute;
+    left: 55%;
+    top:16%;
+    font-family: Verdana;
+    color: #514988;
+    display: grid;
+    grid-auto-flow: column;  
+  }
+
+.festa{
+    position: absolute;
+    left: 51%;
+    top: 25%;
+}
+
+#ingressos{
+    position: absolute;
+    bottom: 1%;
+    left: 5%;
+    display: grid;
+    grid-auto-flow: column;
+      
+}
+#quinta{
+    width: 140px;
+}
+#sexta{
+    width: 140px;
+}
+#sabado{
+    width: 140px;
+}
+#domingo{
+    width: 140px;
+}
+
+#garantir{
+    color: #F3C61F;
+    font-family: Verdana;
+    font-size: 18px;
+    margin-left: 5%;
+    position: absolute;
+    bottom: 20%;
+}
+#button{
+    position: absolute;
+    bottom: 7%;
+    right: 15%;
+    background: #514988;
+    width: 300px;
+    height: 65px;
+    border-radius: 20px;
+    border: 0px;
+    font-family: Verdana;
+    font-size: 20px;
+    
+
+}
+
+#dia{
+    margin-right: 70px;
+    margin-top: 0px;
+    font-family: Verdana;
+    font-size: 35px;
+      
+}
+#hora{
+    margin-right: 70px;
+    margin-top: 0px;
+    font-size: 35px;
+}
+#minutos{
+    margin-right: 70px;
+    margin-top: 0px;
+    font-size: 35px;
+}
+#segundos{
+    margin-right: 70px;
+    margin-top: 0px;
+    font-size: 35px;
+
+}
+.todosTemp{
+    position: absolute;
+    color: #E33881;
+    font-family: Verdana;
+    font-size: 15px;
+    top: 20%;
+    left: 60%;
+    
+}
+
+button:hover {
+    
+    cursor: pointer;
+    color:#F3C61F;
+}
+
+
